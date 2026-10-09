@@ -42,6 +42,14 @@ Pour les deux premières catégories, la dérogation est subordonnée à une op�
 
 Le dernier alinéa renvoie les traitements dans le domaine de la santé à la section 3 du chapitre III du titre II (articles 64 et suivants), sauf ceux de l'article 67 et ceux utilisant le NIR comme identifiant de santé en application de l'article L. 1111-8-1 du code de la santé publique, hors recherche. La NOTA signale une seconde règle d'entrée en vigueur issue de la loi n° 2019-774. L'article illustre la persistance, dans le cadre du règlement, d'une spécificité française fondée sur la méfiance à l'égard de l'identifiant national.
 
+### Article 15 bis
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2019-06-01 par Ordonnance n°2018-1125 du 12 décembre 2018 - art. 1)
+
+L'article 15 bis, dont la numérotation relève de la rédaction de la loi antérieure à la refonte, est rattaché par la source au chapitre III du titre Ier, consacré au numéro d'inscription au répertoire national d'identification des personnes physiques, à la suite de l'article 30. Il est abrogé à compter du 1er juin 2019 par l'article 1er de l'ordonnance n° 2018-1125 du 12 décembre 2018. Son contenu n'est pas reproduit et le commentaire ne le reconstitue pas.
+
 #### Chapitre IV — Formalités préalables à la mise en oeuvre des traitements
 
 ### Article 31
@@ -206,6 +214,14 @@ La tenue de la liste suppose que les responsables informent la Commission des mo
 
 #### Chapitre V — Obligations incombant aux responsables de traitements et droits des personnes
 
+### Article 37
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2025-05-03 par LOI n°2025-391 du 30 avril 2025 - art. 16 (V))
+
+L'article 37 appartenait au chapitre V du titre Ier, consacré aux obligations des responsables de traitements et aux droits des personnes, dont il ouvrait la partie en vigueur avant les articles 38 (mandat donné à une association) et 39 (contestation devant le juge saisi par la Commission). Selon la source, il est abrogé à compter du 3 mai 2025 par l'article 16 de la loi n° 2025-391 du 30 avril 2025 ; la mention « (V) » signale que la disposition abrogative est en vigueur dans la base LEGI. Son contenu n'est pas reproduit et le commentaire ne le reconstitue pas.
+
 ### Article 38
 
 **Texte de la disposition:**
@@ -235,6 +251,58 @@ Sa demande est obligatoirement assortie de conclusions tendant à ce qu'une ques
 Le second alinéa transpose le dispositif aux transferts fondés sur une décision d'adéquation prise sur le fondement de l'article 36 de la directive (UE) 2016/680, à l'exclusion des transferts constituant une opération de traitement effectuée par une juridiction dans l'exercice de sa fonction juridictionnelle, en cohérence avec le V de l'article 19.
 
 Le texte place cette procédure au chapitre V du titre Ier, consacré aux obligations des responsables et aux droits des personnes, alors qu'il s'agit d'un pouvoir de la Commission. Son intérêt pratique tient à la fragilité des transferts internationaux : un transfert conforme à une décision d'adéquation peut néanmoins être suspendu si la validité de cette décision est mise en doute, ce qui impose aux responsables de suivre l'évolution des instruments sur lesquels reposent leurs flux de données.
+
+#### Section 1 — Obligations incombant aux responsables de traitements
+
+### Article 34 bis
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2019-06-01 par Ordonnance n°2018-1125 du 12 décembre 2018 - art. 1)
+
+L'article 34 bis est rattaché par la source à une section 1 (« Obligations incombant aux responsables de traitements ») du chapitre V du titre Ier, intitulé qui appartient à l'organisation de la loi antérieure à la refonte. Il est abrogé à compter du 1er juin 2019 par l'article 1er de l'ordonnance n° 2018-1125 du 12 décembre 2018. Son contenu n'est pas reproduit. Les obligations du responsable du traitement relèvent aujourd'hui, pour l'essentiel, du titre II, chapitre III (articles 57 et suivants).
+
+#### Section 2 — Droits des personnes à l'égard des traitements de données à caractère personnel
+
+### Article 40-1
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2019-06-01 par Ordonnance n°2018-1125 du 12 décembre 2018 - art. 1)
+
+L'article 40-1 relève, selon la source, d'une section 2 du chapitre V du titre Ier (« Droits des personnes à l'égard des traitements de données à caractère personnel »), intitulé issu de la rédaction antérieure à la refonte. Il est abrogé à compter du 1er juin 2019 par l'article 1er de l'ordonnance n° 2018-1125 du 12 décembre 2018 ; son contenu n'est pas reproduit. Les droits de la personne concernée sont aujourd'hui régis, pour les traitements relevant du règlement (UE) 2016/679, par le titre II, chapitre II (articles 48 à 56).
+
+### Article 43 bis
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2018-05-25 par LOI n°2016-1321 du 7 octobre 2016 - art. 58)
+
+L'article 43 bis appartenait à la même section 2 de l'ancien chapitre V (droits des personnes). A la différence des articles voisins, il est abrogé, selon la source, dès le 25 mai 2018 par l'article 58 de la loi n° 2016-1321 du 7 octobre 2016. Son contenu n'est pas reproduit et le commentaire ne le reconstitue pas ; il est mentionné pour la complétude de la numérotation.
+
+### Article 43 ter
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2019-06-01 par Ordonnance n°2018-1125 du 12 décembre 2018 - art. 1)
+
+L'article 43 ter relevait de la section 2 de l'ancien chapitre V (droits des personnes à l'égard des traitements). Il est abrogé à compter du 1er juin 2019 par l'article 1er de l'ordonnance n° 2018-1125 du 12 décembre 2018, comme les articles 43 quater et 43 quinquies. Son contenu n'est pas reproduit et le commentaire ne le reconstitue pas.
+
+### Article 43 quater
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2019-06-01 par Ordonnance n°2018-1125 du 12 décembre 2018 - art. 1)
+
+L'article 43 quater, inséré à la suite de l'article 43 ter dans la section consacrée aux droits des personnes de l'ancienne organisation de la loi, est abrogé à compter du 1er juin 2019 par l'article 1er de l'ordonnance n° 2018-1125 du 12 décembre 2018. La source ne reproduit pas sa rédaction, que le commentaire ne reconstitue pas.
+
+### Article 43 quinquies
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2019-06-01 par Ordonnance n°2018-1125 du 12 décembre 2018 - art. 1)
+
+L'article 43 quinquies est le dernier des articles numérotés en « 43 » dans l'ancienne section relative aux droits des personnes. Il est abrogé à compter du 1er juin 2019 par l'article 1er de l'ordonnance n° 2018-1125 du 12 décembre 2018, selon la source, qui n'en reproduit pas le texte. Les règles applicables figurent aujourd'hui aux articles 48 à 56 (titre II) et, en matière pénale, 104 à 111 (titre III).
 
 #### Chapitre VI — Dispositions pénales
 

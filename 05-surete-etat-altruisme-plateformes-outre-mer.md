@@ -326,6 +326,14 @@ La solution s'explique par le statut de ces collectivités au regard du droit de
 
 La technique a pour conséquence que, dans ces collectivités, les règles du règlement s'appliquent en tant que règles de droit français ; elle vise à assurer aux personnes une protection équivalente à celle dont elles bénéficient en métropole. L'article doit être lu avec l'article 125, qui détermine la rédaction de la loi applicable dans certaines de ces collectivités.
 
+### Article 127
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2025-05-03 par LOI n°2025-391 du 30 avril 2025 - art. 16 (V))
+
+L'article 127 appartenait au titre V, consacré aux dispositions relatives à l'outre-mer, entre l'article 126 (application de la loi à Saint-Barthélemy, Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie et dans d'autres collectivités) et l'article 128. Selon la source, il est abrogé à compter du 3 mai 2025 par l'article 16 de la loi n° 2025-391 du 30 avril 2025, comme l'article 37 ; son contenu n'est pas reproduit. L'article 128 commence, dans la source, par un II.
+
 ### Article 128
 
 **Texte de la disposition:**

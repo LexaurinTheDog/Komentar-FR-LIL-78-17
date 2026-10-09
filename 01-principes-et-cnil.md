@@ -114,6 +114,14 @@ Le 6° consacre l'intérêt légitime du responsable ou d'un tiers, sous réserv
 
 L'article doit être lu avec l'article 6, qui ajoute pour les données sensibles une interdiction de principe, et avec les articles 31 et 32, qui encadrent les traitements de l'État. La qualification de la base de licéité a des conséquences pratiques directes, notamment sur l'information due aux personnes et sur l'étendue de leurs droits.
 
+### Article 5-1
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2019-06-01 par Ordonnance n°2018-1125 du 12 décembre 2018 - art. 1)
+
+L'article 5-1 se situait au chapitre Ier du titre Ier (principes et définitions), entre l'article 5, relatif aux conditions de licéité des traitements, et l'article 6, relatif aux données sensibles. Selon la source, il est abrogé à compter du 1er juin 2019 par l'article 1er de l'ordonnance n° 2018-1125 du 12 décembre 2018, date d'entrée en vigueur de la refonte de la loi mentionnée par les notes de la source. Son contenu n'est pas reproduit et le commentaire ne le reconstitue pas ; sa numérotation à tiret relève de la rédaction antérieure à cette refonte.
+
 ### Article 6
 
 **Texte de la disposition:**
@@ -151,6 +159,14 @@ La disposition ne tranche pas pour autant les questions de fond relatives à la 
 #### Chapitre II — La Commission nationale de l'informatique et des libertés
 
 #### Section 1 — Organisation et missions
+
+### Article 7-1
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2019-06-01 par Ordonnance n°2018-1125 du 12 décembre 2018 - art. 1)
+
+L'article 7-1 est placé par la source en tête de la section 1 du chapitre II (organisation et missions de la Commission nationale de l'informatique et des libertés), avant l'article 8. Selon la source, il est abrogé à compter du 1er juin 2019 par l'article 1er de l'ordonnance n° 2018-1125 du 12 décembre 2018 ; son texte n'est pas reproduit. Il est mentionné pour la complétude de la numérotation ; l'organisation et les missions de la Commission sont aujourd'hui régies par les articles 8 à 18.
 
 ### Article 8
 

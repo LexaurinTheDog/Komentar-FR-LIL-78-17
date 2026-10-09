@@ -1,6 +1,6 @@
 # Commentaire de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés
 
-> **À propos du commentaire :** le présent commentaire porte sur la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, examinée article par article — **133 articles** dans leur rédaction consolidée en vigueur, y compris les articles insérés ultérieurement et dotés d'un numéro composé (art. 20-1, 22-1 et 124-1 à 124-5). Pour chaque article figurent le texte intégral de la disposition et un commentaire.
+> **À propos du commentaire :** le présent commentaire porte sur la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, examinée article par article — **193 articles** : les 133 articles en vigueur dans leur rédaction consolidée, y compris les articles insérés ultérieurement et dotés d'un numéro composé (art. 20-1, 22-1 et 124-1 à 124-5), ainsi que 60 articles abrogés ou transférés, reproduits pour que la numérotation soit complète. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
 
 ## Données de base
 
@@ -22,15 +22,16 @@ La rédaction actuelle de la loi résulte d'une refonte d'ensemble dont la plupa
 - les **titres IV bis et IV ter** confient à la Commission des compétences au titre du règlement (UE) 2022/868 sur la gouvernance des données (art. 124-1 à 124-3) et du règlement (UE) 2022/2065 sur les services numériques (art. 124-4 et 124-5) ;
 - le **titre V** contient les dispositions relatives à l'outre-mer (art. 125, 126 et 128).
 
-Le commentaire est réparti en cinq chapitres :
+Le commentaire est réparti en six chapitres :
 
 1. Titre Ier, chapitres Ier et II — Principes et définitions ; la Commission nationale de l'informatique et des libertés (art. 1er à 29) ;
 2. Titre Ier, chapitres III à VI, et titre II, chapitres Ier et II — Numéro d'inscription au répertoire, formalités préalables, actions représentatives, dispositions pénales ; champ du règlement, conditions particulières de licéité et droits de la personne concernée (art. 30 à 56) ;
 3. Titre II, chapitres III à V — Obligations du responsable et du sous-traitant, santé et recherche, archives, journalisme, communications électroniques, personnes décédées (art. 57 à 86) ;
 4. Titre III — Traitements relevant de la directive (UE) 2016/680 (art. 87 à 114) ;
-5. Titres IV, IV bis, IV ter et V — Sûreté de l'État et défense, altruisme en matière de données, plateformes en ligne, outre-mer (art. 115 à 128).
+5. Titres IV, IV bis, IV ter et V — Sûreté de l'État et défense, altruisme en matière de données, plateformes en ligne, outre-mer (art. 115 à 128) ;
+6. Articles de l'ancienne numérotation rattachés par la source à des chapitres antérieurs aux refontes (anciens chapitres IV, V bis, V ter, VII, VII bis et XIII), tous abrogés ou transférés (art. 29-1 à 70-27).
 
-La version consolidée de la source ne comporte pas d'articles 37 et 127 ; le commentaire ne reconstitue pas de contenu pour ces numéros. L'article 128 commence, dans la source, par un II.
+Les articles qui n'ont plus de rédaction en vigueur sont reproduits tels que la source les présente, avec la date et, le cas échéant, le texte d'abrogation ou la mention de leur transfert, afin que la numérotation soit complète. Ceux qui relèvent de la structure actuelle (articles 5-1, 7-1, 15 bis, 34 bis, 37, 40-1, 43 bis à 43 quinquies et 127) figurent à leur place ; ceux que la source rattache à des chapitres de l'organisation antérieure de la loi, qui n'ont plus d'équivalent dans la structure en vigueur, sont regroupés dans un sixième chapitre. Ces articles font l'objet d'un commentaire bref, qui ne reconstitue pas leur contenu. L'article 128 commence, dans la source, par un II.
 
 ## Méthode
 
